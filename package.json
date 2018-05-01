@@ -1,0 +1,15 @@
+{
+  "name": "uc-lc-first",
+  "version": "1.0.0",
+  "description": "Ucfirst and lcfirst in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ucfirst",
+    "lcfirst"
+  ],
+  "author": "elmahbub <elmahbub14021993@gmail.com>",
+  "license": "MIT"
+}
